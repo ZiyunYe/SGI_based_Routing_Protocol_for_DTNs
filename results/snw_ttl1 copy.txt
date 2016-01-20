@@ -1,0 +1,5 @@
+Scenario.name = SprayAndWait_ttl_1
+Group.router = SprayAndWaitRouter
+SprayAndWaitRouter.nrofCopies = 5
+SprayAndWaitRouter.binaryMode = true
+Group.msgTtl = 1
